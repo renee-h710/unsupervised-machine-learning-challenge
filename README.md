@@ -1,6 +1,6 @@
 # unsupervised-machine-learning-challenge
 
-This excerise looks a unsupervised learning.
+This exercise looks a unsupervised learning.
 
 *Part 1: Prepare the Data*
 

@@ -11,5 +11,5 @@ This excerise looks a unsupervised learning.
   
 *Part 3: Perform a Cluster Analysis with K-means*
 
-  Based on my above, I believe that the patients can be clustered into three distinct clusters.
+  Based on my analysis, I believe that the patients can be clustered into three distinct clusters.
  
